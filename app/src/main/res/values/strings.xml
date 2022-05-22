@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Project</string>
+
+    <string name="Introduction">ADVENTURE GAME</string>
+
+    <string name="MainMenuPlayButton"> PLAY </string>
+    <string name="MainMenuScoreButton"> SCORE </string>
+    <string name="MainMenuExitButton"> EXIT </string>
+    <string name="dialog_message">DO YOU WANT TO QUIT?</string>
+    <string name="dialog_title">CLOSE APPLICATION?</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Fragment1">You awaken in a dark room, confused. It\'s pitch black outside. What do you do?</string>
+    <string name="Frag1Button1">Search Around</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
 </resources>
